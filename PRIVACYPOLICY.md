@@ -1,3 +1,5 @@
+***QR Code Scanner Privacy Policy***
+
 **Privacy Policy**
 
 4G built the QR Code Scanner app as a Free app. This SERVICE is provided by 4G at no cost and is intended for use as is.
